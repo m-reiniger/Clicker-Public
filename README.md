@@ -41,9 +41,11 @@ clickr is perfect for various scenarios, such as:
 
 ## Screenshots
 
-[SCREENSHOT 1: Main Counter List]
-[SCREENSHOT 2: Counter Detail View]
-[SCREENSHOT 3: Counter Creation/Edit Screen]
+<div align="center">
+    <img src="assets/home-grid.png" alt="SCREENSHOT 1: Main Counter List" width="200">
+    <img src="assets/detail-view.png" alt="SSCREENSHOT 2: Counter Detail View" width="200">
+    <img src="assets/create-new.png" alt=Counter Creation/Edit Screen" width="200">
+</div>
 
 ## Download the App
 
