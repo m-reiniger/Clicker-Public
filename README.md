@@ -71,3 +71,17 @@ Please use the [Issues](https://github.com/m-reiniger/clickr-public/issues) sect
 ## Support
 
 For general support questions, please contact our support team at codewald.dev@gmail.com
+
+
+## Changelog:
+
+### 1.0.0 -> 1.0.2
+
+#### Improvements
+
+* Suggestions on home screen now link to pre-filled counter creation
+
+#### Bug fixes
+
+* Fixed header spacing with several iPhones with notch or dynamic island
+* Fixed toolbar labelling on detail view
